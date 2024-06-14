@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "541037007197",
+    "project_id": "petspick-bb996",
+    "storage_bucket": "petspick-bb996.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:541037007197:android:11366950e56a42017d58b4",
+        "android_client_info": {
+          "package_name": "com.petspick.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCmRPbOVcXK1iSGErVVLWHCxXh3dugJew"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
